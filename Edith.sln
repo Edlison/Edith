@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edith", "Edith.csproj", "{783EEEFA-1306-4600-B6FA-4846E67F21F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783EEEFA-1306-4600-B6FA-4846E67F21F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783EEEFA-1306-4600-B6FA-4846E67F21F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783EEEFA-1306-4600-B6FA-4846E67F21F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783EEEFA-1306-4600-B6FA-4846E67F21F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC905749-0A25-4E14-8BF8-4E09DBA9FD68}
+	EndGlobalSection
+EndGlobal
